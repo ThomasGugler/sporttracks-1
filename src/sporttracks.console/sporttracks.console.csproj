@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <OutputPath>../bin</OutputPath>
+
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\sporttracks.core\sporttracks.core.csproj" />
+  </ItemGroup>
+</Project>
